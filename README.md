@@ -44,7 +44,6 @@ Wait time refers to how long a patient waits between being added to a treatment 
 
 - **Power BI** – for data modeling, visualization, and dashboard creation
 - **Excel** – for raw data handling and cleaning
-- **GitHub** – for project versioning and documentation
 
 ## ✅ Purpose
 
@@ -53,6 +52,9 @@ This project is designed to:
 - Improve scheduling and resource allocation
 - Highlight the importance of using real-time **KPI tracking** in managing healthcare delivery
 
+## 🧾 Conclusion
+
+Delays in patient treatment can lead to serious health consequences. By analyzing historical wait list data through clear KPIs and interactive dashboards, healthcare teams can gain valuable insights into where service delivery is falling behind. This project highlights the power of data in identifying bottlenecks, prioritizing action, and ultimately improving patient care.
 
 
 
